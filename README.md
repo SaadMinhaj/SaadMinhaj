@@ -1,6 +1,6 @@
 ![Cover](https://github.com/SaadMinhaj/SaadMinhaj/assets/142347299/acfe2982-7b99-440b-a365-0d8dca3a67eb)
 
-                                                  A PASSIONATE SOFTWARE ENGINEER!
+                                                        A PASSIONATE WEB DEVELOPER!
 <br />
 <p>
 Greetings, fellow coders and tech enthusiasts! I am a passionate software engineer and a dedicated MERN stack developer. I love programming and consider it an art. You will find a wealth of my coding adventures and projects on my GitHub account that reflect my endless passion for creating innovative solutions.
