@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
-<h3 align="center">I'm a full-stack developer Passionate about developing cutting-edge and user-friendly applications with a focus on scalability.</h3>
+<h3 align="center">A Passionate Fullstack developer with a passion for building high-quality software that solves real-world problems.</h3>
 
 - 🌱 I’m currently learning **Python, NextJS, and Artificial intelligence (AI)**
 
