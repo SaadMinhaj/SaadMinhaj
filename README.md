@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">I'm a full-stack developer Passionate about developing cutting-edge and user-friendly applications with a focus on scalability.</h3>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Python, NextJS, and Artificial intelligence (AI)**
 
 - 👨‍💻 All of my projects are available at [https://saadsportfolio.vercel.app/](https://saadsportfolio.vercel.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript**
+- 💬 Ask me about **JavaScript, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Python**
 
 - 📫 How to reach me **themdsaad2@gmail.com**
 
