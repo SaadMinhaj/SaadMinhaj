@@ -1,4 +1,3 @@
-<!-- Sleek Dark Neon Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Saad;Full+Stack+Web+Developer;WordPress+Developer;Currently+Learning+Cloud+Security;Future+Cloud+Security+Engineer" />
 </p>
@@ -31,7 +30,9 @@ Passionate about **building scalable apps & secure systems**.
   </a>
 </p>
 
-📫 Reach me at: **themdsaad2@gmail.com**
+<p align="center">
+  📫 <strong>Email:</strong> themdsaad2@gmail.com
+</p>
 
 ---
 
@@ -82,5 +83,5 @@ Passionate about **building scalable apps & secure systems**.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:3B82F6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=140&section=footer"/>
 </p>
