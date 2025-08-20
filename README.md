@@ -1,7 +1,10 @@
 <!-- Sleek Dark Neon Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Saad;Full+Stack+Web+Developer;WordPress+Developer;Currently+Learning+Cloud+Security;Future+Cloud+Security+Engineer" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Saad;Full+Stack+Web+Developer;WordPress+Developer;Currently+Learning+Cloud+Security;Future+Cloud+Security+Engineer" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=160&section=header&text=Muhammad%20Saad&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+
 </p>
+
 
 ---
 
@@ -17,8 +20,10 @@ Passionate about **building scalable apps & secure systems**.
 ## Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/saadcodes/"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"></a> &nbsp;
-  <a href="https://twitter.com/themdsaad"><img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=3B82F6"></a> &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/saadcodes/)  
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/themdsaad)  
+<!--   <a href="https://linkedin.com/in/saadcodes/"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"></a> &nbsp;
+  <a href="https://twitter.com/themdsaad"><img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=3B82F6"></a> &nbsp; -->
   <a href="https://instagram.com/themdsaadd"><img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=EC4899"></a> &nbsp;
   <a href="https://saadsportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"></a>
 </p>
@@ -75,5 +80,6 @@ Passionate about **building scalable apps & secure systems**.
 
 <!-- Sleek Neon Footer  0EA5E9-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:8B5CF6&height=140&section=footer"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:8B5CF6&height=140&section=footer"/> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:3B82F6&height=140&section=footer"/>
 </p>
