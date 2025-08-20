@@ -1,25 +1,69 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
-<h3 align="center">A Passionate Fullstack developer with a passion for building high-quality software that solves real-world problems.</h3>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=220&section=header&text=Hey%20I'm%20Saad%20🚀&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
-- 🌱 I’m currently learning **Python, NextJS, and Artificial intelligence (AI)**
+## 👨‍💻 About Me  
+🎓 2nd-Year CS Undergrad | 🔐 Future **Cloud Security Engineer**  
+🕵️ Exploring **Cloud Security Engineer** | 🎮 Indie Game Dev (side passion)  
+🌍 Based in **Pakistan**, aiming to be **job-ready before graduation**  
+⚡ I believe in *learning by building & breaking things securely*  
 
-- 👨‍💻 All of my projects are available at [https://saadsportfolio.vercel.app/](https://saadsportfolio.vercel.app/)
+---
 
-- 💬 Ask me about **JavaScript, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Python**
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/saadcodes)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/themdsaad)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=vercel&logoColor=white&style=for-the-badge)](https://saadsportfolio.vercel.app)  
+📫 Reach me at: **themdsaad2@gmail.com**
 
-- 📫 How to reach me **themdsaad2@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am a part-time cricketer**
+## 🛠️ Tech Stack  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/themdsaadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themdsaadd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saadcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadcodes" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad saad" height="30" width="40" /></a>
-<a href="https://instagram.com/themdsaadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themdsaadd" height="30" width="40" /></a>
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Cloud & Security**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadminhaj&show_icons=true&locale=en&layout=compact" alt="saadminhaj" /></p>
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects  
+
+🔐 [**SkillSwap**](https://github.com/SaadMinhaj/dfir-toolkit) → SkillSwap  
+☁️ [**Cloud Security Lab**](https://github.com/yourusername/cloud-lab) → Hands-on AWS security scenarios  
+🎮 [**Indie Game Project**](https://github.com/yourusername/game-dev) → Fun project in Unity  
+
+---
+
+## ⚡ Fun Zone  
+- 💡 Always exploring how things break (and fixing them better)  
+- 🎧 Love Lo-fi while coding  
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:4F46E5&height=150&section=footer"/>
