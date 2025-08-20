@@ -22,10 +22,21 @@ Passionate about **building scalable apps & secure systems**.
   <a href="https://twitter.com/themdsaad"><img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=3B82F6"></a> &nbsp;
   <a href="https://instagram.com/themdsaadd"><img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=EC4899"></a> &nbsp;
   <a href="https://saadsportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"></a> -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/saadcodes)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/themdsaad)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/themdsaadd)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=vercel&logoColor=white&style=flat-square)](https://saadsportfolio.vercel.app)  
+<a href="https://linkedin.com/in/saadcodes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/themdsaad">
+    <img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/themdsaadd">
+    <img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  </a>
+  &nbsp;
+  <a href="https://saadsportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE">
+  </a> 
 </p>
 
 📫 Reach me at: **themdsaad2@gmail.com**
