@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saad;Full+Stack+Web+Developer;WordPress+Developer;Currently+Learning+Cloud+Security;Future+Cloud+Security+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Saad;Full+Stack+Web+Developer;WordPress+Developer;Currently+Learning+Cloud+Security;Future+Cloud+Security+Engineer" />
 
 ---
 
@@ -57,6 +57,7 @@
 
 
 ## Featured Projects  
+
 
 - [**Portfolio Website**](https://github.com/SaadMinhaj/Portfolio) → Personal Portfolio  
 - [**NextJS Projecrs**](https://github.com/SaadMinhaj/NextJS-Projects) → NextJS-Projects  
