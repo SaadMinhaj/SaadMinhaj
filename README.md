@@ -11,11 +11,11 @@
 ---
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=vercel&logoColor=white&style=for-the-badge)](https://yourwebsite.com)  
-📫 Reach me at: **yourmail@example.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/saadcodes)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/themdsaad)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/themdsaadd)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=vercel&logoColor=white&style=for-the-badge)](https://saadsportfolio.vercel.app)  
+📫 Reach me at: **themdsaad2@gmail.com**
 
 ---
 
@@ -45,11 +45,11 @@
 ## GitHub Stats  
 <div align="center">
   
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadMinhaj&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMinhaj&layout=compact&theme=radical&hide_border=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaadMinhaj&theme=radical&hide_border=true)
 
 </div>
 
@@ -57,9 +57,9 @@
 
 ## Featured Projects  
 
-- [**Portfolio Website**](https://github.com/yourusername/portfolio) → Personal developer portfolio built with Next.js  
-- [**WordPress Projects**](https://github.com/yourusername/wordpress-stuff) → Custom WP themes & plugins  
-- [**Cloud Security Lab**](https://github.com/yourusername/cloud-lab) → Hands-on AWS & security scenarios  
+- [**Portfolio Website**](https://github.com/SaadMinhaj/Portfolio) → Personal Portfolio  
+- [**NextJS Projecrs**](https://github.com/SaadMinhaj/NextJS-Projecrs) → SkillSwap  
+<!-- - [**Cloud Security Lab**](https://github.com/yourusername/cloud-lab) → Hands-on AWS & security scenarios -->
 
 ---
 
