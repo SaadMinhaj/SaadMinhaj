@@ -23,7 +23,7 @@ Passionate about **building scalable apps & secure systems**.
   <a href="https://instagram.com/themdsaadd"><img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=EC4899"></a> &nbsp;
   <a href="https://saadsportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"></a> -->
 <a href="www.linkedin.com/in/saadcodes">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;
   <a href="https://twitter.com/themdsaad">
