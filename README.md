@@ -18,25 +18,25 @@ Passionate about **building scalable apps & secure systems**.
 ## Connect with Me  
 
 <p align="center"> 
-<!--   <a href="https://linkedin.com/in/saadcodes/"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"></a> &nbsp;
+<!--   <a href="www.linkedin.com/in/saadcodes"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"></a> &nbsp;
   <a href="https://twitter.com/themdsaad"><img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=3B82F6"></a> &nbsp;
   <a href="https://instagram.com/themdsaadd"><img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=EC4899"></a> &nbsp;
   <a href="https://saadsportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"></a> -->
-<a href="https://linkedin.com/in/saadcodes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+<a href="www.linkedin.com/in/saadcodes">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;
   <a href="https://twitter.com/themdsaad">
-    <img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=1DA1F2">
   </a>
   &nbsp;
   <a href="https://instagram.com/themdsaadd">
-    <img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   &nbsp;
   <a href="https://saadsportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE">
-  </a> 
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 📫 Reach me at: **themdsaad2@gmail.com**
