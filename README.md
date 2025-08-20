@@ -17,7 +17,7 @@ Passionate about **building scalable apps & secure systems**.
 ## Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/saadcodes"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"></a> &nbsp;
+  <a href="https://linkedin.com/in/saadcodes/"><img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"></a> &nbsp;
   <a href="https://twitter.com/themdsaad"><img src="https://img.shields.io/badge/-Twitter-111827?style=for-the-badge&logo=twitter&logoColor=3B82F6"></a> &nbsp;
   <a href="https://instagram.com/themdsaadd"><img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=EC4899"></a> &nbsp;
   <a href="https://saadsportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"></a>
@@ -56,7 +56,7 @@ Passionate about **building scalable apps & secure systems**.
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadMinhaj&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="170" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=SaadMinhaj&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="170" /> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMinhaj&layout=compact&theme=nightowl&hide_border=true" height="170" />
 </p>
 
@@ -73,7 +73,7 @@ Passionate about **building scalable apps & secure systems**.
 
 ---
 
-<!-- Sleek Neon Footer -->
+<!-- Sleek Neon Footer  0EA5E9-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:8B5CF6&height=140&section=footer"/>
 </p>
