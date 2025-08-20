@@ -22,10 +22,6 @@ Passionate about **building scalable apps & secure systems**.
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAgMkg0Yy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjRjMC0xLjEtLjktMi0yLTJ6bS0xMSAxNkg1VjloM3Y5ek0xMCA4LjNhMS41IDEuNSAwIDEgMC0uMDAyLTMuMDAxQTEuNSAxLjUgMCAwIDAgMTAgOC4zem05IDExaC0zdi02YzAtMS4xLS4xLTIuMS0xLjctMi0uNyAwLTEuMy41LTEuNiAxLjItLjEuMi0uMi40LS4yLjhWMTloLTN2LTZjMC0xLjEtLjEtMi0xLjctMi0uNyAwLTEuMy41LTEuNiAxLjItLjEuMi0uMi40LS4yLjhWMTloLTN2LTcuNWwwLjAwMi0uMmMuMDMtLjcuNDYtMS40IDEuMTktMS44IDEuMS0uNyAyLjU2LS43IDMuNzYgMCAxLjI2Ljc4IDEuODYgMi4wOSAxLjg2IDMuNDJWMjB6Ii8+PC9zdmc+" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/themdsaad">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=1DA1F2">
-  </a>
-  &nbsp;
   <a href="https://instagram.com/themdsaadd">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -85,9 +81,6 @@ Passionate about **building scalable apps & secure systems**.
 
 ---
 
-<!-- Sleek Neon Footer  0EA5E9-->
 <p align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:8B5CF6&height=140&section=footer"/> -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:3B82F6&height=100&section=footer"/>
-
 </p>
