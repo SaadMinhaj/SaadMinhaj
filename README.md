@@ -55,11 +55,13 @@
 
 ---
 
+
 ## Featured Projects  
 
 - [**Portfolio Website**](https://github.com/SaadMinhaj/Portfolio) → Personal Portfolio  
-- [**NextJS Projecrs**](https://github.com/SaadMinhaj/NextJS-Projecrs) → SkillSwap  
+- [**NextJS Projecrs**](https://github.com/SaadMinhaj/NextJS-Projects) → NextJS-Projects  
 <!-- - [**Cloud Security Lab**](https://github.com/yourusername/cloud-lab) → Hands-on AWS & security scenarios -->
+
 
 ---
 
