@@ -23,8 +23,8 @@ Passionate about **building scalable apps & secure systems**.
   <a href="https://instagram.com/themdsaadd"><img src="https://img.shields.io/badge/-Instagram-111827?style=for-the-badge&logo=instagram&logoColor=EC4899"></a> &nbsp;
   <a href="https://saadsportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"></a> -->
 <a href="www.linkedin.com/in/saadcodes">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAgMkg0Yy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjRjMC0xLjEtLjktMi0yLTJ6bS0xMSAxNkg1Vj9oM3ptLTEuNS0xMS4yYy0xIDAtMS43LjgtMS43IDEuN3MuOCAxLjcgMS43IDEuN2MxIDAgMS43LS44IDEuNy0xLjdzLS44LTEuNy0xLjctMS43ek0xOSA5aC0yYy0uNSAwLTEgLjEtMS4zLjctLjguOS0xLjIgMi4zLTEuMiAzLjNWMTloLTN2LTZjMC0xLjEtLjEtMi0xLjctMi0uNyAwLTEuMy41LTEuNiAxLjItLjEtLjIuOS0xLjUgMy0xLjUgMi41IDAgMyAxLjUgMyAzLjZWMThoM3YtNy41YzAtMy41LTEuOS01LjEtNS4zLTUuMXoiLz48L3N2Zz4=" />
+</a>
   &nbsp;
   <a href="https://twitter.com/themdsaad">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=1DA1F2">
