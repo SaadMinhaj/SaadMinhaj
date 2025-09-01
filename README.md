@@ -22,6 +22,7 @@ Passionate about **building scalable apps & secure systems**.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h0dmZqYmtreXlwa2hoMzlpMGw1bG5vb2h0eTNyb3N6YzdkZG9pNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ELtfmA4Apkju/giphy.gif" width="30"> &ensp;Connect with Me  
+</br>
 
 <!-- <p align="center"> 
 <a href="https://www.linkedin.com/in/saadcodes/">
@@ -38,7 +39,7 @@ Passionate about **building scalable apps & secure systems**.
 </p> -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/saadcodes" target="_blank">
+  <a href="https://linkedin.com/in/saadcodes/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Muhammad Saad | Linkedin" />
   </a>
   &nbsp;
@@ -46,7 +47,7 @@ Passionate about **building scalable apps & secure systems**.
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Muhammad Saad | GitHub" />
   </a>
   &nbsp;
-  <a href="https://x.com/themdsaadd" target="_blank">
+  <a href="https://www.instagram.com/themdsaadd/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Muhammad Saad | Instagram" />
   </a>
   &nbsp;
@@ -63,7 +64,7 @@ Passionate about **building scalable apps & secure systems**.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &ensp;Tech Stack
-
+</br>
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22D3EE" /> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" /> &nbsp;
@@ -91,11 +92,13 @@ Passionate about **building scalable apps & secure systems**.
 [![My Skills](https://skillicons.dev/icons?i=c,js,ts,nextjs,react,tailwind,figma,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,webstorm,vercel,vite,bash,linux,md,cloudflare,java,py,docker)](https://github.com/SaadMinhaj)
 
 </div>
+</br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;GitHub Stats  
+</br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaadMinhaj&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="170" /> &nbsp;
